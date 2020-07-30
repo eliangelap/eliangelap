@@ -8,6 +8,6 @@ Meus passatempos preferidos são jogar futebol (⚽️) e jogar videogame com me
 
 Siga-me nas rede sociais:
 
-![Twitter Follow](https://img.shields.io/twitter/follow/eliangelap?label=eliangelap&style=social)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eliangelap)](https://twitter.com/eliangelap)
 
 
