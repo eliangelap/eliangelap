@@ -3,7 +3,7 @@
 Meu nome é Eliangela Menezes Palharini Paes e moro no Brasil (🇧🇷).
 Eu trabalhei durante 8 anos com desenvolvimento Web e Mobile e atualmente sou analista de sistemas na [COAMO Agroindustrial Cooperativa](http://coamo.com.br/site/).
 
-Possuo experiência em:
+Possuo experiência:
   - Java;
   - PHP;
   - Javascript;
@@ -12,7 +12,7 @@ Possuo experiência em:
   - Desenvolvimento Android (nativo);
   - Action Script 3;
 
-Atualmente estou trabalhando com:
+Estou trabalhando:
   - Desenvolvimento e manutenção de sistemas legado em Uniface;
   - Desenvolvimento React Native;
   
