@@ -18,4 +18,3 @@ My name is Eliangela Menezes Palharini Paes and I live in Brazil (🇧🇷).
 #### 📫 How to reach me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliangela)
 
-
