@@ -10,7 +10,7 @@ My name is Eliangela Menezes Palharini Paes and I live in Brazil (🇧🇷).
 [![My Skills](https://skillicons.dev/icons?i=azure,react,vue,arduino,docker)](https://skillicons.dev)
 
 #### 💬 Ask me about:
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,maven,mysql,postgres)](https://skillicons.dev)
 
 #### ⚡ My skills:
 [![My Skills](https://skillicons.dev/icons?i=java,php,js,html,css,docker,react,angular,azure,bash,bootstrap,debian,git,github,jquery,hibernate,maven,mysql,npm,postgres,regex,spring,ts,vscode,yarn,androidstudio&perline=10)](https://skillicons.dev)
