@@ -7,7 +7,7 @@ My name is Eliangela Menezes Palharini Paes and I live in Brazil (🇧🇷).
 - [eliangela-palharini/cadastro-aacm-web](https://github.com/eliangela-palharini/cadastro-aacm-web) - ReactJs Frontend - Volunteer project for the Associação Amigos do Autista de Campo Mourão - AACM. This project is a socioeconomic registry, to collect social data on autistic people in Campo Mourão.
 
 #### 🌱 I'm currently learning:
-[![My Skills](https://skillicons.dev/icons?i=azure,react,vue,arduino,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,react,arduino,docker,node)](https://skillicons.dev)
 
 #### 💬 Ask me about:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,html,maven,mysql,postgres)](https://skillicons.dev)
